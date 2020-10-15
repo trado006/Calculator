@@ -16,7 +16,7 @@
         android:textStyle="bold|italic" />
 
     <TextView
-        android:id="@+id/NumberView"
+        android:id="@+id/numberview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingRight="10dp"
